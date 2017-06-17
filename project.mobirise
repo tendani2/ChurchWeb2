@@ -363,7 +363,7 @@
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
-            "googleMap": {
+             "googleMap": {
               "address": "2nd Floor buying services building,\n47 De Villiers,\nSt Zonnebloem,\nCape Town",
               "placeId": "ChIJ553sZX5nzB0Rve3xc5n4sOU",
               "state": "ok",
