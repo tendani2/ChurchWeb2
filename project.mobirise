@@ -365,8 +365,9 @@
             "overlayColor": "#3C3C3C",
             "googleMap": {
               "address": "2nd Floor buying services building,\n47 De Villiers,\nSt Zonnebloem,\nCape Town",
-              "placeId": "",
-              "state": "loading"
+              "placeId": "ChIJ553sZX5nzB0Rve3xc5n4sOU",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "text1": "<strong>Address</strong><br>2nd Floor buying services building,<br>47 De Villiers,<br>St Zonnebloem,<br>Cape Town<br><br>\n<strong>Contacts</strong><br>\nEmail: collinsmuravha@gmail.com<br>\nPhone:&nbsp;+27 (0762061628)<br><br>",
